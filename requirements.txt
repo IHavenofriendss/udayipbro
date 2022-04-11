@@ -26,7 +26,6 @@ pyshorteners
 persondoesnotexist
 catdoesnotexist
 python-decouple
-speedtest-cli
 countryinfo
 python-telegram-bot==11.1.0
 pyromod~=1.5
